@@ -27,6 +27,12 @@ handlers:
 - url: /opdracht5\.php
   script: opdracht5.php
   
+- url: /opdracht6\.php
+  script: opdracht6.php
+  
+- url: /opdracht7\.php
+  script: opdracht7.php
+  
 - url: /nederlands\.php
   script: nederlands.php
   

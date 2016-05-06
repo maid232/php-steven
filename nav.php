@@ -23,6 +23,8 @@
       <li><a href="opdracht3.php">Page 3</a></li>
       <li><a href="opdracht4.php">Page 4</a></li>
       <li><a href="opdracht5.php">Page 5</a></li>
+      <li><a href="opdracht6.php">Page 6</a></li>
+      <li><a href="opdracht7.php">Page 7</a></li>
        <li><a href="nederlands.php">test</a></li>
     </ul>
   </div>
