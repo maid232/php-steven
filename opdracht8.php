@@ -15,7 +15,6 @@
 </style>
 <body>
 </body>
-<h2> Zwemclub </h2>
 <table border="2">
    
 </html>
