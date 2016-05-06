@@ -25,6 +25,11 @@
       <li><a href="opdracht5.php">Page 5</a></li>
       <li><a href="opdracht6.php">Page 6</a></li>
       <li><a href="opdracht7.php">Page 7</a></li>
+      <li><a href="opdracht8.php">Page 8</a></li>
+      <li><a href="opdracht9.php">Page 9</a></li>
+      <li><a href="opdracht10.php">Page 10</a></li>
+      <li><a href="opdracht11.php">Page 11</a></li>
+      <li><a href="mrwheely.php">Mrwheely</a></li>
        <li><a href="nederlands.php">test</a></li>
     </ul>
   </div>
