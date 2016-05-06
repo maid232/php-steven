@@ -1,0 +1,34 @@
+application: php-school
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /
+  script: main.php
+  
+- url: /opdracht1\.php
+  script: opdracht1.php
+  
+- url: /opdracht2\.php
+  script: opdracht2.php
+  
+- url: /opdracht3\.php
+  script: opdracht3.php
+  
+- url: /opdracht4\.php
+  script: opdracht4.php
+  
+- url: /opdracht5\.php
+  script: opdracht5.php
+  
+- url: /nederlands\.php
+  script: nederlands.php
+  
+  
+  
